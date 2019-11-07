@@ -4,7 +4,7 @@ Communication between localhost and mobile app.
 USE this SQL on DB:
 <br>
 
-CREATE TABLE users(
+CREATE TABLE users <br> (
     id int NOT NULL AUTO_INCREMENT,
     email varchar(200) NOT NULL,
     password text NOT NULL,
