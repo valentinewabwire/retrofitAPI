@@ -2,6 +2,8 @@
 Communication between localhost and mobile app.
 
 USE this SQL on DB:
+<br>
+
 CREATE TABLE users(
     id int NOT NULL AUTO_INCREMENT,
     email varchar(200) NOT NULL,
